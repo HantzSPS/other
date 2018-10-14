@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book mins="126" lang="eng">
+		<title>The Republic Of Plato</title>
+		<author>Francis McDonald CornFord</author>
+		<publisher>Oxford University Press</publisher>
+		<year>1945</year>
+		<ISBN>9178-0-19-500364-2</ISBN>	
+	</book>
+	<book mins="126" lang="eng">
+		<title>Capitalism without capital: The Rise of the intangible Economy</title>
+		<author>Haskel Jonathan and Stian Westlake</author>
+		<publisher>Princeton University Press</publisher>
+		<year>2018</year>
+		<ISBN>978-0-691-17503-4</ISBN>
+	</book>
+	<book>
+		<title>Python Crash Course</title>
+		<author>Eric Matthes</author>
+		<publisher>William Pollock</publisher>
+		<year>2016</year>
+		<ISBN>978-1-59327-603-4</ISBN>	
+	</book>	
+</books>
